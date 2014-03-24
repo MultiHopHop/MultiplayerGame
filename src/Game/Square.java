@@ -1,4 +1,4 @@
-
+package Game;
 
 public class Square {
 	private VisibleState visibleState;
